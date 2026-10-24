@@ -1,0 +1,5 @@
+out/
+release/
+.cache-test
+*.log
+.DS_Store
