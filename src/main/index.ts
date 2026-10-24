@@ -57,7 +57,7 @@ function createWindow(): BrowserWindow {
     minHeight: 700,
     show: false,
     backgroundColor: colors.color,
-    autoHideMenuBar: true,
+    autoHideMenuBar: true,
     titleBarStyle: 'hidden',
     titleBarOverlay: {
       color: colors.color,
